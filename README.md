@@ -12,7 +12,7 @@ A Passionate Web Developer, Having Expertise in Java Script, MERN stack. I love 
 
 🌐Socials
 -----------------------------------------------
-
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/saurav-kumar-693314201/))
 
 <!--
 **Saurav903/Saurav903** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
