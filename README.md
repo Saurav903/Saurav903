@@ -2,7 +2,7 @@
   <img width='70%' src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="400"/>
 </div>
 <h1 align="center">Hi 👋, I'm Saurav Kumar</h1>
-<h3 align="center">A Passionate Web Developer, Having Expertise in Java Script, MERN stack. I love to learn new things and build new web applications.</h3>
+<h3 align="center">Aspiring full stack web developer with 1000+ hours of coding experience, passion for building applications, with proficiency in managing development projects.</h3>
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=A+Passionate+Web+Developer;+I+love+to+learn+new+things+and+build+new+web+applications." alt="Typing SVG" /></a></div>
 
