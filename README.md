@@ -26,7 +26,9 @@
 
 ✉️  You can contact me at sk8517167@gmail.com 
 
-🧠  I'm learning Full Stack Web Development### Skills
+🧠  I'm learning Full Stack Web Development
+
+📄 Know about my experiences-[Resume](https://drive.google.com/drive/folders/1ceg93Wkl9GSP0RPzUoXqcMnPSO3v7uIK?usp=share_link)
 
 <p align="center"><img align="center" alt="coding" src="https://media2.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif?cid=ecf05e47qed690sgu0pzb7fpkkbia5fzq6cv26r3qer3alzy&rid=giphy.gif&ct=g"></p>
 
