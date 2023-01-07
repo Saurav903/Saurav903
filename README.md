@@ -30,7 +30,7 @@
 
 📄 Know about my experiences-[Resume](https://drive.google.com/drive/folders/1ceg93Wkl9GSP0RPzUoXqcMnPSO3v7uIK?usp=share_link)
 
-<p align="center"><img align="center" alt="coding" src="https://media2.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif?cid=ecf05e47qed690sgu0pzb7fpkkbia5fzq6cv26r3qer3alzy&rid=giphy.gif&ct=g"></p>
+<p align="center"><img align="center" alt="coding" src="https://media0.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif?cid=ecf05e47h5u962vr7zu77cb5oylv53fj3dw0g7subdj5r9ar&rid=giphy.gif&ct=g"></p>
 
 <hr/>
 <h3 align="left">Languages and Tools:</h3>
