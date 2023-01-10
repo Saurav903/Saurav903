@@ -36,7 +36,9 @@
 <br/>
 
 <h3 align="left">Languages and Tools:</h3>
-<hr/>
+
+--------------------------------------------
+
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,nextjs,mongodb,github,vscode,netlify,codepen,npm & line=5" />
