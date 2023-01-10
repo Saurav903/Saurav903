@@ -21,6 +21,7 @@
 </div>
 <hr/>
 <img align="right" alt="coding" width="450" src="https://www.lambdatest.com/resources/images/news24.gif"/>
+
 # About Me
 
 🌍  I'm based in Howrah,West Bengal 
