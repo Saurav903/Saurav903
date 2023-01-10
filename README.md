@@ -19,7 +19,8 @@
     <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=Codecov&logoColor=white" alt="Portfolio Badge"/>
   </a>
 </div>
-
+<hr/>
+<img align="right" alt="coding" width="450" src="https://www.lambdatest.com/resources/images/news24.gif"/>
 # About Me
 
 🌍  I'm based in Howrah,West Bengal 
@@ -30,12 +31,18 @@
 
 📄 Know about my experiences-[Resume](https://drive.google.com/drive/folders/1ceg93Wkl9GSP0RPzUoXqcMnPSO3v7uIK?usp=share_link)
 
-<p align="center"><img align="center" alt="coding" src="https://media0.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif?cid=ecf05e47h5u962vr7zu77cb5oylv53fj3dw0g7subdj5r9ar&rid=giphy.gif&ct=g"></p>
 
-<hr/>
+
+<br/>
+
 <h3 align="left">Languages and Tools:</h3>
 <hr/>
-<div style={{display:"flex"}}>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,nextjs,mongodb,github,vscode,netlify,codepen,npm & line=5" />
+  </a>
+</p>
+<!-- <div style={{display:"flex"}}>
   
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -49,14 +56,23 @@
 <br/>![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
 ![Vercel](https://img.shields.io/badge/vercel-%231572B6.svg?style=for-the-badge&logo=vercel&logoColor=white) 
 ![Vs-Code](https://img.shields.io/badge/vscode-%23E34F26.svg?style=for-the-badge&logo=visualstudio&logoColor=white)
-  </div>
+  </div> -->
 <hr/>
+
 <div align="center" >
   <h1 align='center'>
 <img width='150' height='50' src="https://camo.githubusercontent.com/81e598418a780d07b9e23fd717200fca0f18dee49d78507f03f7eea1c1d23fbb/687474703a2f2f692e696d6775722e636f6d2f513754515948782e706e67" />
 </h1>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saurav903&show_icons=true&locale=en" alt="saurav903" /></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saurav903&label=Profile%20views&color=0e75b6&style=flat" alt="saurav903" /> </p>
+  <p >
+  
+<img  src="https://github-readme-stats.vercel.app/api?username=Saurav903&show_icons=true&locale=en&theme=tokyonight&border_radius=10" alt="rajeshdeo" width="48%">
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=Saurav903&show_icons=true&locale=en&theme=tokyonight&border_radius=10" alt="rajeshdeo"width="48%" />
+
+<br />
+<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=rajeshdeo&show_icons=true&show_icons=true&locale=en&theme=tokyonight&border_radius=10" alt="rajeshdeo" align="center"  />
+</p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saurav903&show_icons=true&locale=en" alt="saurav903" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saurav903&label=Profile%20views&color=0e75b6&style=flat" alt="saurav903" /> </p> -->
  <hr/> 
   
 ## 🏆 GitHub Trophies
