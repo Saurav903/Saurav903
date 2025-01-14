@@ -40,11 +40,7 @@
 
 --------------------------------------------
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,nextjs,mongodb,github,vscode,netlify,codepen,npm & line=5" />
-  </a>
-</p>
+
 <!-- <div style={{display:"flex"}}>
   
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -79,6 +75,4 @@
  <hr/> 
   
 ## 🏆 GitHub Trophies
-  <div align="center" >
-<p > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saurav903" alt="saurav903" /></a> </p>
-  </div>
+
